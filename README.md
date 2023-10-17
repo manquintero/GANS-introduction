@@ -1,5 +1,4 @@
-# Generative Adversarial Networks in Slanted Land
+# Refactorización de una Red generativa adversativa (GAN) para detectar horizontes
 
-This repo accompanies the YouTube video [A Friendly Introduction to GANs](https://www.youtube.com/watch?v=8L11aMN5KY8).
-
-In it, we build a pair of simple one-layer GANs which generate simple 2x2 black and white images.
+Este repositorio es una interpretación del video [A Friendly Introduction to GANs](https://www.youtube.com/watch?v=8L11aMN5KY8)
+con una adapatación para detectar un patrón de horizonte con en una matriz de 2x2.
